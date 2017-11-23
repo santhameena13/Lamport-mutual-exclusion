@@ -1,0 +1,10 @@
+{
+  "IP" : "127.0.0.1",
+  "port" : 5000,
+  "buffer_size" : 1024,
+  "post_file" : "post.json",
+  "message_delimiter" : ",",
+  "message_terminator" : "#",
+  "delay" : 5,
+  "total_processes" : 3
+}
